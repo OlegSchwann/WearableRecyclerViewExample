@@ -5,4 +5,6 @@ you might seem that there are no normal examples that could be run after git clo
 I rebuilt <a href="https://stackoverflow.com/questions/51716173/wearablerecyclerview-android-wear-os">stackoverflow question</a>
 to this repository while I understood. I hope it will be useful to someone else.  
 What it looks like:  
-<img src="/OlegSchwann/WearableRecyclerViewExample/blob/master/doc/screen_example.jpg?raw=true"/>  
+<p align="center">
+<img src="https://raw.githubusercontent.com/OlegSchwann/WearableRecyclerViewExample/master/doc/screen_example.jpg"/>  
+</p>
